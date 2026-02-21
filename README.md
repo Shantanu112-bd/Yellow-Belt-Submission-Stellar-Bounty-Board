@@ -94,3 +94,28 @@ npm run build
 
 ## 📝 Smart Contract Notice
 This frontend connects to a deployed Soroban smart contract. If you wish to modify the core rust logic (`/contracts`), you will need the `stellar-cli` installed locally to compile and re-deploy your own instance of the `.wasm` file to the network.
+
+---
+
+## 🧪 Smart Contract Test Results
+
+The Soroban `bounty_board` smart contract has been thoroughly unit tested and successfully passes all core logic assertions.
+
+```bash
+cargo test --manifest-path contracts/bounty_board/Cargo.toml
+```
+
+**Results:**
+```text
+running 8 tests
+test test::test_double_initialize - should panic ... ok
+test test::test_initialize ... ok
+test test::test_create_bounty_invalid_reward - should panic ... ok
+test test::test_create_bounty ... ok
+test test::test_reject_solution ... ok
+test test::test_submit_solution ... ok
+test test::test_approve_solution ... ok
+test test::test_get_open_bounties ... ok
+
+test result: ok. 8 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.11s
+```
