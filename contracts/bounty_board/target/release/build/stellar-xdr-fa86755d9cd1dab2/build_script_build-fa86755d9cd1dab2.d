@@ -1,0 +1,5 @@
+/Users/macbook/Downloads/Design System for Bounty Board/contracts/bounty_board/target/release/build/stellar-xdr-fa86755d9cd1dab2/build_script_build-fa86755d9cd1dab2.d: /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stellar-xdr-25.0.0/build.rs
+
+/Users/macbook/Downloads/Design System for Bounty Board/contracts/bounty_board/target/release/build/stellar-xdr-fa86755d9cd1dab2/build_script_build-fa86755d9cd1dab2: /Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stellar-xdr-25.0.0/build.rs
+
+/Users/macbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stellar-xdr-25.0.0/build.rs:
