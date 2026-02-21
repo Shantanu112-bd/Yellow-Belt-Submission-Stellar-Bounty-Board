@@ -4,7 +4,6 @@ use soroban_sdk::{
     contract, contractimpl, contracttype, token, Address, Env, String, Vec, symbol_short,
 };
 
-/// Contract metadata for Antigravity
 use soroban_sdk::contractmeta;
 
 contractmeta!(
