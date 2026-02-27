@@ -7,7 +7,10 @@ A decentralized Bounty Board built on the **Stellar Network** using **Soroban Sm
 
 ## 🔗 Key Deployment Details
 * **Live App URL**: [https://stellar-bounty-board.vercel.app](https://stellar-bounty-board.vercel.app)
-* **Deployed Contract Address**: `CBPVHZWTTQPY37GBVMN57VQEXIKMMLIL5HXKBFBQ2BM4TD4HMCP5LFLG`
+
+
+* **Deployed Contract Address with stellar  expert ** : https://stellar.expert/explorer/testnet/contract/CBPVHZWTTQPY37GBVMN57VQEXIKMMLIL5HXKBFBQ2BM4TD4HMCP5LFLG
+ `CBPVHZWTTQPY37GBVMN57VQEXIKMMLIL5HXKBFBQ2BM4TD4HMCP5LFLG`
 * **Network**: Stellar Testnet (`https://soroban-testnet.stellar.org:443`)
 * **Example Contract Call Transaction Hash**: [`59878baad45119d736ac8a89169361665792364319084b5a3b93911c757dab3c`](https://stellar.expert/explorer/testnet/tx/59878baad45119d736ac8a89169361665792364319084b5a3b93911c757dab3c)
 
