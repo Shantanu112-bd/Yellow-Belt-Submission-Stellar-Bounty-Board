@@ -1,0 +1,8 @@
+/contracts/bounty_board/target/
+/contracts/*/target/
+/target/
+.git/
+node_modules/
+dist/
+dist-ssr/
+*.log
